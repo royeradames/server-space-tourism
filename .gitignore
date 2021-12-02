@@ -4,3 +4,5 @@ node_modules
 db/spaceTourism.db3
 # database queries
 db/sql_queries
+#compine js files from ts
+dist
